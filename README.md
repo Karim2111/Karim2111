@@ -12,7 +12,7 @@ I'm a Computer Science student at Carleton University passionate about building 
 - **Frameworks and Tools:** Next.js, React, Git, Vercel, Linux, Windows  
 
 Feel free to check out my work and connect with me on [LinkedIn](https://www.linkedin.com/in/karim-rifai-411389279/)!
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karim2111&hide_progress=true)
 
 <!--
 **Karim2111/Karim2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
