@@ -11,7 +11,7 @@ I'm a Computer Science student at Carleton University passionate about building 
 - **Web Development:** HTML, CSS, Deno, Node.js, RESTful APIs  
 - **Frameworks and Tools:** Next.js, React, Git, Vercel, Linux, Windows  
 
-
+Feel free to check out my work and connect with me on [LinkedIn](https://www.linkedin.com/in/karim-rifai-411389279/)!
 
 
 <!--
