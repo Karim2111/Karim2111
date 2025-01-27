@@ -1,4 +1,18 @@
-## Hi there 👋, I'm Karim Rifai
+<h1 align="center"> Hi there 👋, I'm Karim Rifai </h1>
+
+
+
+<div align="justify">
+I'm a Computer Science student at Carleton University passionate about building scalable, user-friendly applications and solving real-world problems. 
+</div>
+
+### 🔧 Technical Skills
+- **Programming Languages:** C/C++, Python, Java, JavaScript, SQL  
+- **Web Development:** HTML, CSS, Deno, Node.js, RESTful APIs  
+- **Frameworks and Tools:** Next.js, React, Git, Vercel, Linux, Windows  
+
+
+
 
 <!--
 **Karim2111/Karim2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
